@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Terms of Service
+title: Terms of Serice
 include_in_header: False
 ---
 
-# Terms od Service
+# Terms of Service
 
 <br>
 
@@ -42,7 +42,7 @@ The App offers a free-to-use version ("Free Features") and a premium subscriptio
 
 **4. Intellectual Property**
 
-All content, design, graphics, text, audio files, soundscapes, voice recordings, software, and other materials related to the Service are the intellectual property of **[Your Name or Company Name]** and are protected by copyright, trademark, and other intellectual property laws. You may not copy, reproduce, modify, distribute, or create derivative works from our content without our express written permission.
+All content, design, graphics, text, audio files, soundscapes, voice recordings, software, and other materials related to the Service are the intellectual property of **Mateusz Byrtus** and are protected by copyright, trademark, and other intellectual property laws. You may not copy, reproduce, modify, distribute, or create derivative works from our content without our express written permission.
 
 **5. Prohibited Conduct**
 
@@ -62,7 +62,7 @@ The Service is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warra
 
 **8. Limitation of Liability**
 
-To the fullest extent permitted by applicable law, in no event shall **[Your Name or Company Name]**, its affiliates, directors, or employees be liable for any indirect, incidental, special, consequential, or punitive damages (including, without limitation, loss of profits, data, or goodwill) arising from your use of, or inability to use, the Service, even if we have been advised of the possibility of such damages.
+To the fullest extent permitted by applicable law, in no event shall **Mateusz Byrtus**, its affiliates, directors, or employees be liable for any indirect, incidental, special, consequential, or punitive damages (including, without limitation, loss of profits, data, or goodwill) arising from your use of, or inability to use, the Service, even if we have been advised of the possibility of such damages.
 
 **9. Changes to These Terms**
 
@@ -70,7 +70,7 @@ We reserve the right to modify these Terms at any time. If we make changes, we w
 
 **10. Governing Law**
 
-These Terms shall be governed by the laws of **[Your Country/State]**, without regard to its conflict of law provisions.
+These Terms shall be governed by the laws of **Poland**, without regard to its conflict of law provisions.
 
 **11. Contact Us**
 
